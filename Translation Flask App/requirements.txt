@@ -1,0 +1,6 @@
+Flask==2.0.1
+SpeechRecognition==3.8.1
+googletrans==4.0.0rc1
+gtts==2.3.
+pydub==0.25.1
+pyaudio==0.2.13
